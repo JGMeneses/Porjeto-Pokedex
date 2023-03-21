@@ -1,4 +1,4 @@
-# Porjeto-Pokedex
+# Projeto-Pokedex
 
 ## Layout principal
 
