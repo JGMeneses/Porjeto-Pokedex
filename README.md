@@ -17,7 +17,7 @@
 
 ```bash
 # clonar repositório
-# https://github.com/JGMeneses/Porjeto-Pokedex.git
+# https://github.com/JGMeneses/Projeto-Pokedex.git
 # executar o o index.html utilizando a extensão GoLive
 ```
 
